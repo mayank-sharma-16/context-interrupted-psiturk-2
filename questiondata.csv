@@ -1,0 +1,16 @@
+debug5xxQW:debugCzNG3,Baseline Inputs,"['y', 'n', 'y', 'n', None]"
+debug5xxQW:debugCzNG3,Baseline Times,"[510, 188, 858, 808, 3005]"
+debug5xxQW:debugCzNG3,TotalTime,245950
+debug5xxQW:debugCzNG3,assignmentId,debugCzNG3
+debug5xxQW:debugCzNG3,hitId,debugaEnyW
+debug5xxQW:debugCzNG3,workerId,debug5xxQW
+debug5xxQW:debugCzNG3,Baseline1 Inputs,"['n', 'y', 'n', 'y', 'n']"
+debug5xxQW:debugCzNG3,Baseline1 Times,"[1038, 7, 2508, 3149, 2939]"
+debug5xxQW:debugCzNG3,Flanker1 Inputs,"['>', None, '<', None, None, '<']"
+debug5xxQW:debugCzNG3,Flanker1 Times,"[631, 3007, 696, 3007, 3006, 88427]"
+debug5xxQW:debugCzNG3,Baseline2 Inputs,"['n', 'y', 'n', None, None, 'n']"
+debug5xxQW:debugCzNG3,Baseline2 Times,"[847, 51, 97, 3007, 3009, 98218]"
+debug5xxQW:debugCzNG3,Flanker2 Inputs,"['<', '>', '>', None, None]"
+debug5xxQW:debugCzNG3,Flanker2 Times,"[1471, 80, 176, 6645, 5049]"
+debug5xxQW:debugCzNG3,Baseline3 Inputs,"['n', None, None, None, None]"
+debug5xxQW:debugCzNG3,Baseline3 Times,"[838, 3005, 3004, 3008, 3004]"
