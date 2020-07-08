@@ -93,8 +93,6 @@ var InstructionSetOne = function() {
 
 var BaselineTest1 = function() {
 
-	console.log(psiTurk.taskdata);
-
 	var BaselineInputs = [];
 	var BaselineTimes = [];
 	var BaselineStart;
@@ -236,7 +234,6 @@ var FlankerTaskOne = function() {
 	var finish = function() {
 		subjectData.set("Flanker1 Inputs", Flanker1Inputs);
 		subjectData.set("Flanker1 Times", Flanker1Times);
-		console.log(subjectData);
 		currentview = new BreakTwo();
 	}
 
@@ -348,8 +345,6 @@ var InstructionSetTwo = function() {
 }
 
 var BaselineTest2 = function() {
-
-	console.log(psiTurk.taskdata);
 
 	var BaselineInputs = [];
 	var BaselineTimes = [];
@@ -604,8 +599,6 @@ var InstructionSetThree = function() {
 
 var BaselineTest3 = function() {
 
-	console.log(psiTurk.taskdata);
-
 	var BaselineInputs = [];
 	var BaselineTimes = [];
 	var BaselineStart;
@@ -690,8 +683,6 @@ var ConcludingScreen = function(){
 	}
 
 	psiTurk.saveData();
-
-	console.log(psiTurk.taskdata.get('workerId'));
 
 }
 
